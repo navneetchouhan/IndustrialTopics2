@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Navneet Kaur Chauhan Blog</title>
+    <link>http://navneetchouhan.com/</link>
+    <description>Recent content on Navneet Kaur Chauhan Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://navneetchouhan.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1</title>
+      <link>http://navneetchouhan.com/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://navneetchouhan.com/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>http://navneetchouhan.com/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://navneetchouhan.com/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>http://navneetchouhan.com/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://navneetchouhan.com/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>http://navneetchouhan.com/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://navneetchouhan.com/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>As a designer, what challenges I had faced in the beginning</title>
+      <link>http://navneetchouhan.com/posts/post1/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://navneetchouhan.com/posts/post1/</guid>
+      <description>As a designer, what challenges I had faced in the beginning As an electronics student, I faced so many difficulty while starting this career. One moment it was like a challenge for me and the next moment it seems so interesting to me.
+The question here arises is why was it seems to be challenge to me? Umm, the answer for this would be that I was not good in designing and I don’t have any knowledge about designs and creativity because I was so bad in drawing stuff.</description>
+    </item>
+    
+  </channel>
+</rss>
