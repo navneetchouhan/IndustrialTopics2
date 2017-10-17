@@ -19,13 +19,18 @@
   </url>
   
   <url>
+    <loc>http://navneetchouhan.com/posts/post2/</loc>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://navneetchouhan.com/posts/post1/</loc>
     <lastmod>2017-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://navneetchouhan.com/tags/beginner/</loc>
-    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -41,7 +46,7 @@
   
   <url>
     <loc>http://navneetchouhan.com/tags/challenges/</loc>
-    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -52,7 +57,7 @@
   
   <url>
     <loc>http://navneetchouhan.com/tags/designer/</loc>
-    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -88,18 +93,24 @@
   
   <url>
     <loc>http://navneetchouhan.com/</loc>
-    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://navneetchouhan.com/posts/</loc>
-    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://navneetchouhan.com/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://navneetchouhan.com/tags/redesign/</loc>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,7 +126,13 @@
   
   <url>
     <loc>http://navneetchouhan.com/tags/</loc>
-    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://navneetchouhan.com/tags/website/</loc>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

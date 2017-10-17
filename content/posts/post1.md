@@ -8,6 +8,10 @@ draft: false
 
 # As a designer, what challenges I had faced in the beginning
 
+<div>
+	<img style="max-width: 100%;max-height: 100%;" src="/images/image2.jpg" />
+</div>
+
 As an electronics student, I faced so many difficulty while starting this career. One moment it was like a challenge for me and the next moment it seems so interesting to me. 
 ### The question here arises is why was it seems to be challenge to me?
 Umm, the answer for this would be that I was not good in designing and I don’t have any knowledge about designs and creativity because I was so bad in drawing stuff.
@@ -34,6 +38,11 @@ we need to get outside our comfort zone and learn to try news things. Let your p
 
 
 ### How I overcame with these challenges by time?
+
+<div>
+	<img style="max-width: 100%;max-height: 100%;" src="/images/image1.jpg" />
+</div>
+
 
 Firstly, I was not interested in doing designing and that’s why it was difficult for me to learn about designing but day by day my interest started increasing for designing and then I started learning about basics of designing from internet and from other designers by which it seems fun to me and I started overcame various challenges that I faced in the beginning.
 

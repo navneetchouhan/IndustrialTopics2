@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on Navneet Kaur Chauhan Blog</title>
+    <link>http://navneetchouhan.com/tags/website/</link>
+    <description>Recent content in Website on Navneet Kaur Chauhan Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://navneetchouhan.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Challenges We face during Redesigning of website</title>
+      <link>http://navneetchouhan.com/posts/post2/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://navneetchouhan.com/posts/post2/</guid>
+      <description>Challenges We face during Redesigning of website   The designing now-a-days are at its peak and for the competition, designers need to focus on being technical as well as they should adopt some strategies. I and my team had redesigned a website in the second semester in Project 1. We redesigned it so well that our client was very impressed with our work but rather than that we faced few problems during redesigning of their website.</description>
+    </item>
+    
+  </channel>
+</rss>
