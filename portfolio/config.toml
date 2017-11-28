@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://navneetchouhan.com/"
+baseurl = "http://navneetchouhan.com/"
 languageCode = "en-us"
 title = "Navneet Chauhan"
 theme = "hugo-freelancer-theme"
